@@ -1,0 +1,17 @@
+{
+  "name": "faction_hub_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node src/main.js",
+    "deploy_cmds": "node src/deploy-commands.js"
+  },
+  "keywords": [],
+  "author": "BeauTheBeau & ArnavDevelops",
+  "license": "GNU GPL v3",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
