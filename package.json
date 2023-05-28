@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run": "node src/main.js",
-    "deploy_cmds": "node src/deploy-commands.js"
+    "run": "node index.js",
+    "deploy_cmds": "node deploy-commands.js"
   },
   "keywords": [],
   "author": "BeauTheBeau & ArnavDevelops",
